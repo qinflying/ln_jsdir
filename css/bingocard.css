@@ -25,7 +25,7 @@ th, td {
     width: 20%;
 }
 
-#free .pickedBG {
+#free, .pickedBG {
     background-color: #f66;
 }
 

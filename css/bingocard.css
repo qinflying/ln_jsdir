@@ -30,5 +30,5 @@ th, td {
 }
 
 .winningBG {
-    background-image: url(images/redFlash.gif);
+    background-image: url(../resources/gif/winning.gif);
 }
